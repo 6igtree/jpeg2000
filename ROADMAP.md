@@ -1,5 +1,7 @@
 # Roadmap
 
+English | [日本語](ROADMAP.ja.md)
+
 The goal of this project is a complete, fast, dependency-free JPEG 2000
 codec for Go. Development proceeds decoder-first: each milestone keeps
 the library releasable and the test matrix green.

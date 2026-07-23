@@ -2,6 +2,8 @@
 
 [![Go Reference](https://pkg.go.dev/badge/github.com/d-fuji/jpeg2000.svg)](https://pkg.go.dev/github.com/d-fuji/jpeg2000)
 
+English | [日本語](README.ja.md)
+
 A pure Go decoder for JPEG 2000 (ISO/IEC 15444-1) images. No cgo, no
 external libraries — the entire codec, from the MQ arithmetic coder to
 the inverse wavelet transform, is implemented in Go.
